@@ -1,0 +1,18 @@
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+#arrow-calendar{
+    padding-top: 50px;
+    width: 70px;
+    height:70px;
+    align-self: center;
+}
+
+#arrow-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+}

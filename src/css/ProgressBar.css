@@ -1,0 +1,30 @@
+.progress-bar{
+  
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+  
+.progressMainWrapper {
+    background-color: rgb(48, 49, 85);
+    height:50px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.progressMainStyle {
+    height: 50px;
+    background-color: #fad1d1;
+}
+
+#icon{
+    position: absolute;
+    top: -30px;
+    left: 0;
+    height: 150px;
+    width: 150px;
+    z-index: 2;
+}
