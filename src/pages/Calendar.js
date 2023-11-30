@@ -10,9 +10,8 @@ function Calendar(){
             <NavBar />
             <TimeLineView />
             <div id="arrow-container">
-                <Link to="/">
+                <Link to="/ramen">
                     <img src={arrow}  id="arrow-calendar" />
-                    
                 </Link>
             </div>
             

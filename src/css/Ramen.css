@@ -1,0 +1,29 @@
+#ramen{
+    width: 80%;
+    height: 80%;
+}
+
+#ramen-arrow{
+    width: 100px;
+    height: 100px;
+}
+
+.ramen-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+.ramen{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.instruction{
+    padding: 20px;
+    font-family: Georgia;
+    font-size: 30px;
+}
