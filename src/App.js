@@ -6,6 +6,8 @@ import BigCity from './pages/BigCity';
 import HomePage from './pages/HomePage';
 import Calendar from './pages/Calendar';
 import Letter from './pages/Letter';
+import Calendar2 from './pages/Calendar2';
+
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
         <Route path="/night_view" element={<NightView />} />
         <Route path="/big_city"  element={<BigCity />} />
         <Route path="/calendar" element={<Calendar />} />
+        <Route path="/calendar2" element={<Calendar2 />} />
         <Route path="/letter" element={<Letter />} />
       </Routes>
     </BrowserRouter>

@@ -3,7 +3,7 @@
     height: 80%;
 }
 
-#ramen-arrow{
+.page-arrow{
     width: 100px;
     height: 100px;
 }
@@ -13,6 +13,7 @@
     flex-direction: row;
     align-items: center;
     align-content: center;
+    padding-left: 30px;
 }
 
 .ramen{
@@ -23,7 +24,10 @@
 }
 
 .instruction{
-    padding: 20px;
+    padding: 10px;
     font-family: Georgia;
     font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

@@ -1,0 +1,41 @@
+.big-city{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+#bigcity-pic{
+    width:80%;
+    height:80%;
+}
+
+.big-city{
+    display: flex;
+    flex-direction: column;
+}
+
+.bigcity-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    padding-left: 30px;
+}
+
+.bigcity-content{
+    background-image: url("../image/bigcity.png");
+    width: 850px;
+    height: 550px;
+    background-size: cover;
+}
+
+#camera{
+    width: 110px;
+    height: 110px;
+}
+
+#big-city{
+    width: 70%;
+    height: 70%;
+}
