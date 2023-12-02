@@ -23,7 +23,6 @@ function BigCity(){
     }
 
     const imageArray=[bigcity1, bigcity2, bigcity3, bigcity4, bigcity5];
-
     var content=<img id="big-city" src={imageArray[count]} />;
     if(count==-1){
         content=<div className="bigcity-content"></div>
