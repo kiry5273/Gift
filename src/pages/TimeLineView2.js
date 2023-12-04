@@ -32,7 +32,7 @@ function TimeLineView2(){
                         <Typography>在一起後第一次一起跨年，</Typography>
                         <Typography>一起聽著麋先生、美秀集團，</Typography>
                         <Typography>在跨年的瞬間你在我耳邊輕聲地說了：「我愛你」，</Typography>
-                        <Typography>這是我2022年聽到的第一句話，也是我最喜歡的一句話</Typography>
+                        <Typography>這是我2022年聽到的第一句話，也是我最喜歡的一句話2323</Typography>
                     </TimelineContent>
                 </TimelineItem>
                 <TimelineItem>
