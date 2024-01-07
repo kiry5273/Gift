@@ -1,6 +1,6 @@
 # About this project
 
-This website is an anniversary gift for my boyfriend.
+This website is an anniversary gift for my boyfriend.\
 Include some animations and designs to record our love story.
 
 <img width="1333" alt="Screenshot 2024-01-07 at 2 22 31 PM" src="https://github.com/kiry5273/Gift/assets/115534958/46269f68-ca59-4a58-a52c-79fe4f1b403e">
